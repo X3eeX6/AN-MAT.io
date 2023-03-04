@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Animasyonlu Metin</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="center">
+		<h1 class="animate">Merhaba, Dünya!</h1>
+	</div>
+</body>
+</html>
